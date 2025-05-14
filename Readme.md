@@ -15,7 +15,7 @@ A comprehensive resource hub for hackathon participants and developers building 
 - [Libraries](#libraries)
 - [Devtools](#devtools)
 - [Webinars & Workshops](webinars&workshops)
-- [Design Tools UI Kits](designtools-uikits)
+- [Design Tools](designtools)
 - [Community Support](community-support)
 
 ## 🧐Hackathon Tracks & Challenges
@@ -243,7 +243,7 @@ Hands-on workshops that help developers practice implementing ICP features in re
  
 
 
-# 🎨 Design Tools & UI Kits
+# 🎨 Design Tools
 
 * [Figma](https://figma.com)
 * [Radix UI](https://www.radix-ui.com/)
