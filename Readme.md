@@ -8,7 +8,7 @@ A comprehensive resource hub for hackathon participants and developers building 
 - [Hackathon Tracks & Challenges](#hackathon-tracks--challenges)
 - [Hackathon Ideas](#hackathon-ideas)
 - [Cheatsheet](#cheatsheet)
-- [Judging](judging)
+- [Judging Criteria](#hackathon-judging-criteria)
 - [Courses](#courses)
 - [Guides and Tutorials](#guides-and-tutorials)
 - [Templates](#templates)
