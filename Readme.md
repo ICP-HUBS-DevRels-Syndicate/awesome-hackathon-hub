@@ -188,7 +188,7 @@ Structured learning programs that provide in-depth knowledge of ICP development,
 #### Rust
 - [Dacade Rust Course](https://dacade.org/communities/icp/) - Smart contract development with Rust
 - [Elna Bootcamp](https://elna-ai.github.io/bootcamp/)
-- [Raise In](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
+- [Rise In](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
 
 #### AI Development
 - [Dacade AI Course](https://dacade.org/communities/icp/) - Building AI applications on ICP
