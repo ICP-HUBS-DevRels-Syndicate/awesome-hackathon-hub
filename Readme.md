@@ -259,5 +259,5 @@ We welcome contributions from the community! If you have:
 
 Feel free to [open an issue](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues) or [submit a Pull Request](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues/pulls).
 
-# 👥Community Support
+# 👥 Community Support
  * [X (Twitter) ICP Hubs](https://x.com/ICPHUBS)
