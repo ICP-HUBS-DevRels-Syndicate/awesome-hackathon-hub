@@ -216,7 +216,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 
 
 
-# Libraries
+# 🧮 Libraries
 
 *Reusable modules that support development in various CDKs, languages, and frameworks.*
 
@@ -225,7 +225,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 [See full libraries list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md)
 
 
-# DevTools
+# 🔧 DevTools
 
 *Tools that improve the development experience, including debugging utilities, testing frameworks, and deployment scripts.*
  Select recommended devtools
