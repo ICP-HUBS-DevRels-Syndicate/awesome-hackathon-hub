@@ -7,16 +7,16 @@ A comprehensive resource hub for hackathon participants and developers building 
 ## 📚 Table of Contents
 - [Hackathon Tracks & Challenges](#hackathon-tracks--challenges)
 - [Hackathon Ideas](#hackathon-ideas)
-- [Hackathon Support Materials](#hackathon-support-materials)
-- [Hackathon Judging Criteria](#hackathon-judging-criteria)
+- [Cheatsheet](#cheatsheet)
+- [Judging](judging)
 - [Courses](#courses)
 - [Guides and Tutorials](#guides-and-tutorials)
 - [Templates](#templates)
 - [Libraries](#libraries)
 - [Devtools](#devtools)
-- [Webinars & Workshops](webinars&workshops)
-- [Design Tools](design-tools)
-- [Community Support](CommunitySupport)
+- [Workshops](workshops)
+- [Design](design)
+- [Community](community)
 
 ## 🧐Hackathon Tracks & Challenges
 
@@ -129,7 +129,7 @@ Explore potential project ideas:
 * DeFi on ICP – Build a decentralized finance app (DEX, lending, staking).
 
 
-# 🛠 Hackathon Support Materials
+# 🛠 Cheatsheet
 - [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c) 
 
 # 🏆 Hackathon Judging Criteria
@@ -233,7 +233,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 [See full devtools list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md)
 
 
-# Webinars & Workshops
+# Workshops
 Here are  Livestream sessions led by Devrels providing insights, demonstrations, and discussions on ICP-related topics.
 Hands-on workshops that help developers practice implementing ICP features in real-time.
 
@@ -243,11 +243,10 @@ Hands-on workshops that help developers practice implementing ICP features in re
  
 
 
-# 🎨 Design Tools
+# 🎨 Design
 
-* [Figma](https://figma.com)
-* [Radix UI](https://www.radix-ui.com/)
-
+* [Figma](https://figma.com) - Industry-standard collaborative design tool for creating user interfaces, prototypes, and design systems
+* [Radix UI](https://www.radix-ui.com/) - A collection of open source UI components and design tools for building high-quality, accessible design systems and web applications
 
 # 🤝 Contributing
 
@@ -259,5 +258,5 @@ We welcome contributions from the community! If you have:
 
 Feel free to [open an issue](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues) or [submit a Pull Request](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues/pulls).
 
-# 👥 Community Support
+# 👥 Community
  * [X (Twitter) ICP Hubs](https://x.com/ICPHUBS)
