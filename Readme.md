@@ -132,7 +132,7 @@ Explore potential project ideas:
 # 🛠 Hackathon Support Materials
 - [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c) 
 
-### 🏆 Hackathon Judging Criteria
+# 🏆 Hackathon Judging Criteria
 
 * Technical Innovation (25%)
   - Uniqueness of solution
