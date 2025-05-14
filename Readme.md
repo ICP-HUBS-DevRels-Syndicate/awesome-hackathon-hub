@@ -6,19 +6,20 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 ## 📚 Table of Contents
 - [Hackathon Tracks & Challenges](#hackathon-tracks--challenges)
-- [Hackathon Ideas](#hackathonideas)
+- [Hackathon Ideas](#hackathon-ideas)
 - [Hackathon Support Materials](#hackathon-support-materials)
-- [Hackathon Judging Criteria](#hackathonjudgingcriteria)
+- [Hackathon Judging Criteria](#hackathon-judging-criteria)
 - [Courses](#courses)
 - [Guides and Tutorials](#guides-and-tutorials)
 - [Templates](#templates)
 - [Libraries](#libraries)
 - [Devtools](#devtools)
 - [Webinars & Workshops](webinars&workshops)
-- [Design Tools & UI Kits](designtools&uikits)
-- [Community & Support](community&support)
+- [Design Tools UI Kits](designtools-uikits)
+- [Community Support](community-support)
 
 ## 🧐Hackathon Tracks & Challenges
+
 ### DeFi Track
 - Build decentralized finance applications
 - Focus areas: 
@@ -170,10 +171,6 @@ Explore potential project ideas:
 
 
 
-
-
-
-
 # 👨‍💼Courses
 Structured learning programs that provide in-depth knowledge of ICP development, covering multiple topics progressively.
 
@@ -184,19 +181,19 @@ Structured learning programs that provide in-depth knowledge of ICP development,
 - [PT HUB - Vibe Coding](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Index)
 
 [See full courses list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md)
-## TypeScript
+#### TypeScript
 - [Dacade - Typescript 101](https://dacade.org/communities/icp/challenges/256f0a1c-5f4f-495f-a1b3-90559ab3c51f)
 - [Dacade - Typescript 201](https://dacade.org/communities/icp/challenges/0c140f50-2c47-412b-985c-092c1eece05b)
 
-## Rust
+#### Rust
 - [Dacade Rust Course](https://dacade.org/communities/icp/) - Smart contract development with Rust
 - [Elna Bootcamp](https://elna-ai.github.io/bootcamp/)
 - [Raise In](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
 
-## AI Development
+#### AI Development
 - [Dacade AI Course](https://dacade.org/communities/icp/) - Building AI applications on ICP
 
-## VR/AR
+#### VR/AR
 - [Dacade ICVR Course](https://dacade.org/communities/icp/) - Virtual and augmented reality development
 
 
@@ -210,7 +207,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 
 
 
-##  🧹Templates
+#  🧹Templates
 
 *Code examples that demonstrate ICP capabilities, helping developers understand and implement key features.*
  Select recommended templates
@@ -219,7 +216,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 
 
 
-## Libraries
+# Libraries
 
 *Reusable modules that support development in various CDKs, languages, and frameworks.*
 
@@ -228,7 +225,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 [See full libraries list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md)
 
 
-## DevTools
+# DevTools
 
 *Tools that improve the development experience, including debugging utilities, testing frameworks, and deployment scripts.*
  Select recommended devtools
@@ -246,13 +243,13 @@ Hands-on workshops that help developers practice implementing ICP features in re
  
 
 
-## 🎨 Design Tools & UI Kits
+# 🎨 Design Tools & UI Kits
 
 * [Figma](https://figma.com)
 * [Radix UI](https://www.radix-ui.com/)
 
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions from the community! If you have:
 
@@ -262,5 +259,5 @@ We welcome contributions from the community! If you have:
 
 Feel free to [open an issue](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues) or [submit a Pull Request](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues/pulls).
 
- 👥 Community & Support
+# 👥Community Support
  * [X (Twitter) ICP Hubs](https://x.com/ICPHUBS)
