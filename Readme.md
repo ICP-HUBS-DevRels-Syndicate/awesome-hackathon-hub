@@ -16,7 +16,7 @@ A comprehensive resource hub for hackathon participants and developers building 
 - [Devtools](#devtools)
 - [Webinars & Workshops](webinars&workshops)
 - [Design Tools](design-tools)
-- [Community Support](community-support)
+- [Community Support](CommunitySupport)
 
 ## 🧐Hackathon Tracks & Challenges
 
