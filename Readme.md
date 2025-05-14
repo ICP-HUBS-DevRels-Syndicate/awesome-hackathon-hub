@@ -233,7 +233,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 [See full devtools list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md)
 
 
-# Workshops
+# 👨‍💻 Workshops
 Here are  Livestream sessions led by Devrels providing insights, demonstrations, and discussions on ICP-related topics.
 Hands-on workshops that help developers practice implementing ICP features in real-time.
 
