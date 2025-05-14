@@ -14,9 +14,9 @@ A comprehensive resource hub for hackathon participants and developers building 
 - [Templates](#templates)
 - [Libraries](#libraries)
 - [Devtools](#devtools)
-- [Workshops](workshops)
-- [Design](design)
-- [Community](community)
+- [Workshops](#workshops)
+- [Design & UI KIT](#-design---ui-kit)
+- [Community & Support](#-community--support)
 
 ## 🧐Hackathon Tracks & Challenges
 
@@ -129,10 +129,10 @@ Explore potential project ideas:
 * DeFi on ICP – Build a decentralized finance app (DEX, lending, staking).
 
 
-# 🛠 Cheatsheet
+# 🛠Cheatsheet
 - [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c) 
 
-# 🏆 Hackathon Judging Criteria
+# 🏆Hackathon Judging Criteria
 
 * Technical Innovation (25%)
   - Uniqueness of solution
@@ -243,7 +243,7 @@ Hands-on workshops that help developers practice implementing ICP features in re
  
 
 
-# 🎨 Design
+# 🎨 Design  & UI KIT
 
 * [Figma](https://figma.com) - Industry-standard collaborative design tool for creating user interfaces, prototypes, and design systems
 * [Radix UI](https://www.radix-ui.com/) - A collection of open source UI components and design tools for building high-quality, accessible design systems and web applications
@@ -258,5 +258,5 @@ We welcome contributions from the community! If you have:
 
 Feel free to [open an issue](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues) or [submit a Pull Request](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues/pulls).
 
-# 👥 Community
+# 👥 Community & Support
  * [X (Twitter) ICP Hubs](https://x.com/ICPHUBS)
