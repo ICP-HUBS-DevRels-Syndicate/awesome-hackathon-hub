@@ -7,7 +7,7 @@ A comprehensive resource hub for hackathon participants and developers building 
 ## 📚 Table of Contents
 - [Hackathon Tracks & Challenges](#hackathon-tracks--challenges)
 - [Hackathon Ideas](#hackathon-ideas)
-- [Cheatsheet](#cheatsheet)
+- [Hackathon Cheatsheet](#cheatsheet)
 - [Judging Criteria](#hackathon-judging-criteria)
 - [Courses](#courses)
 - [Guides and Tutorials](#guides-and-tutorials)
