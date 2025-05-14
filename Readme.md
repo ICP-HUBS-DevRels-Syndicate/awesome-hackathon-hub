@@ -1,5 +1,5 @@
 
-# 🚀 Awesome Hackathon Hub (Internet Computer Edition)
+# 🚀 Awesome Hackathon Hub 
 
 A comprehensive resource hub for hackathon participants and developers building on the [Internet Computer Protocol (ICP)](https://internetcomputer.org/).
 
