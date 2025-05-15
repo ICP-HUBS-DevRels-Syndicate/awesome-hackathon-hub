@@ -1,6 +1,8 @@
 
-# 🚀 Awesome Hackathon Hub 
+
 ![Image](https://github.com/user-attachments/assets/7f2790c5-68c9-4da8-a589-b606c8767418)
+
+# 🚀 Awesome Hackathon Hub 
 A comprehensive resource hub for hackathon participants and developers building on the [Internet Computer Protocol (ICP)](https://internetcomputer.org/).
 
 
