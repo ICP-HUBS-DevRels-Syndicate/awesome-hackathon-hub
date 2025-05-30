@@ -22,6 +22,12 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 ## 🧐Hackathon Tracks & Challenges
 
+TODO: I think it would be better if you also give past examples, like:
+    - https://github.com/ICP-Hub-Kenya/developer-task-bounties
+    - https://ethdenver2025.devfolio.co/prizes
+    - https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
+    - https://github.com/ICP-Hacker-House/Devcon_BKK?tab=readme-ov-file#bounties
+
 ### DeFi Track
 - Build decentralized finance applications
 - Focus areas: 
@@ -132,7 +138,9 @@ Explore potential project ideas:
 
 
 # 🛠Cheatsheet
-- [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c) 
+- [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c)
+- [Indonesia HUB Hackathon Cheat Sheet](https://codefest.notion.site/Running-Hackathon-Guidebook-18307b7d88a880cabab0f30285509ff5)
+- [Canada HUB AI Hackathon Cheat Sheet](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a)
 
 # 🏆Hackathon Judging Criteria
 
@@ -170,84 +178,34 @@ Explore potential project ideas:
   - Quality of presentation
   - Team collaboration
 
-
-
-
-# 👨‍💼Courses
-Structured learning programs that provide in-depth knowledge of ICP development, covering multiple topics progressively.
-
-#### Motoko Recommended
-- [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
-
-#### Vibe Coding Recommended
-- [PT HUB - Vibe Coding](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Index)
-
-[See full courses list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md)
-#### TypeScript
-- [Dacade - Typescript 101](https://dacade.org/communities/icp/challenges/256f0a1c-5f4f-495f-a1b3-90559ab3c51f)
-- [Dacade - Typescript 201](https://dacade.org/communities/icp/challenges/0c140f50-2c47-412b-985c-092c1eece05b)
-
-#### Rust
-- [Dacade Rust Course](https://dacade.org/communities/icp/) - Smart contract development with Rust
-- [Elna Bootcamp](https://elna-ai.github.io/bootcamp/)
-- [Rise In](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
-
-#### AI Development
-- [Dacade AI Course](https://dacade.org/communities/icp/) - Building AI applications on ICP
-
-#### VR/AR
-- [Dacade ICVR Course](https://dacade.org/communities/icp/) - Virtual and augmented reality development
-
-
-
-
 # 📘Guides and Tutorials
 Step-by-step instructional content that teaches specific ICP concepts, tools, or implementations with practical examples.
 
+TODO: since Awesome ICP Education Hub is so rich on material, let's give it more "visibility"
+      Maybe a sub-list with links to each of the sections you had here? At least that way it's clear it's of Education Hub.
 - [Awesome-icp-education-hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub.git) - A curated list of resources for learning and building
+  - [Education Hub - Courses list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md)
 - [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
 
-
-
-#  🧹Templates
-
-*Code examples that demonstrate ICP capabilities, helping developers understand and implement key features.*
- Select recommended templates
-
-[See full templates list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/templates.md)
-
-
-
-# 🧮 Libraries
-
-*Reusable modules that support development in various CDKs, languages, and frameworks.*
-
- Select recommended libraries
-
-[See full libraries list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md)
-
-
-# 🔧 DevTools
-
-*Tools that improve the development experience, including debugging utilities, testing frameworks, and deployment scripts.*
- Select recommended devtools
-
-[See full devtools list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md)
-
-
 # 👨‍💻 Workshops
+
+TODO: Let's refactor this into a separate section, and let's extend it significantly and divide by topic (Chain Fusion, AI, etc. Let's ) and label it by stack (Rust, Motoko, React, ...)
+      Could you add the best ones of Dfinity Youtube (that could be used / re delivered on a Hackathon)? Like Developer Journey or some that explain the IC and specific tool? (focus on Hackathons, don't get a huge list, max 10 videos)      
 Here are  Livestream sessions led by Devrels providing insights, demonstrations, and discussions on ICP-related topics.
 Hands-on workshops that help developers practice implementing ICP features in real-time.
 
+TODO: Encode Club has some that are very interesting, given by Dfinity DevRels, like Moritz, Jenifer and Dieter. Let's highlight the links to each of those sessions and not to Encode Club as a whole. Because the "Demo" sessions are not worth it.
  - [Encode club Chainfusion Tutorials](https://www.youtube.com/@encodeclub/search?query=icp)
  - [AI](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
  - [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
  
-
-
 # 🎨 Design  & UI KIT
 
+TODO: Below Figma, consider adding a tool or two for creating UI mockups (that it's easier than Figma)
 * [Figma](https://figma.com) - Industry-standard collaborative design tool for creating user interfaces, prototypes, and design systems
+TODO: Please consider not recommending Radix, it extensively recommends use of styles.css, which makes it very hard for maintainenance.
+      Consider mentioning Tailwind & Svelte, since those two are the most commonly used frameworks, and maybe one or two UI kits that are compatible / depend on those frameworks
+      
 * [Radix UI](https://www.radix-ui.com/) - A collection of open source UI components and design tools for building high-quality, accessible design systems and web applications
 
 # 🤝 Contributing
@@ -256,7 +214,6 @@ We welcome contributions from the community! If you have:
 
 * A new tutorial, boilerplate, or course
 * A new ICP hackathon challenge idea
-* Tools or libraries useful to developers
 
 Feel free to [open an issue](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues) or [submit a Pull Request](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-hackathon-hub/issues/pulls).
 
