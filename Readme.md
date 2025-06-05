@@ -141,6 +141,8 @@ Explore potential project ideas:
 - [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c)
 - [Indonesia HUB Hackathon Cheat Sheet](https://codefest.notion.site/Running-Hackathon-Guidebook-18307b7d88a880cabab0f30285509ff5)
 - [Canada HUB AI Hackathon Cheat Sheet](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a)
+- [Dfinity DevRel Hackathon AI Agent Cheat Sheet](https://www.notion.so/dfinityorg/AI-Agent-Hackathon-2025-1f9ef9d9b80c80629d39ccd9e8eab07d?source=copy_link#1f9ef9d9b80c80a19936f987264c30d4)
+
 
 # 🏆Hackathon Judging Criteria
 
