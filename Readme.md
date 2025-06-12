@@ -22,119 +22,96 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 ## 🧐Hackathon Tracks & Challenges
 
-TODO: I think it would be better if you also give past examples, like:
-    - https://github.com/ICP-Hub-Kenya/developer-task-bounties
-    - https://ethdenver2025.devfolio.co/prizes
-    - https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali
-    - https://github.com/ICP-Hacker-House/Devcon_BKK?tab=readme-ov-file#bounties
+### Past Examples
+- [ICP Hub Kenya Developer Task Bounties](https://github.com/ICP-Hub-Kenya/developer-task-bounties)
+- [ETHDenver 2025 Prize Tracks](https://ethdenver2025.devfolio.co/prizes)
+- [ICP Hacker House Bali Challenges](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali)
+- [Devcon Bangkok Bounties](https://github.com/ICP-Hacker-House/Devcon_BKK?tab=readme-ov-file#bounties)
 
-### DeFi Track
-- Build decentralized finance applications
-- Focus areas: 
-  - DEX platforms & AMM implementations
-  - Lending/borrowing protocols
-  - Yield optimization
-  - Staking mechanisms & liquid staking
-- Expected deliverables: 
-  - Smart contracts with comprehensive test coverage
-  - User interface with wallet integration
-  - Technical documentation & architecture diagrams
-- Technical requirements:
-  - Motoko/Rust proficiency
-  - Frontend development (React/Vue/Angular)
-  - Understanding of DeFi primitives
-  - Security best practices
-
-### AI & Blockchain Integration
-- Build AI-powered dApps running on-chain
-- Focus areas:
-  - Machine learning model deployment
-  - Data processing pipelines
-  - AI-driven decision systems
-  - Privacy-preserving computation
-- Expected deliverables:
-  - AI model integration
-  - Smart contracts for model interaction
-  - User interface for AI features
-  - Performance optimization
-- Technical requirements:
-  - AI/ML expertise
-  - Canister development
-  - Model optimization skills
-  - Data handling experience
-
-### Chain Fusion 
-- Create bridges between ICP and other chains
-- Focus areas:
-  - Ethereum, Bitcoin, Solana integration
-  - Asset bridging protocols
-  - Cross-chain messaging
-  - State verification
-- Expected deliverables:
-  - Bridge protocols
-  - Security measures
-  - Monitoring systems
-  - Documentation
-- Technical requirements:
-  - Multi-chain development experience
-  - Security protocol design
-  - Cross-chain communication
-  - Testing frameworks
-
-### NFTs & Digital Assets
-- Create NFT marketplaces or Ordinals-based projects
-- Focus areas:
-  - Advanced minting mechanisms
-  - Trading & auction systems
-  - Collection management & curation
-  - Metadata standards & storage solutions
-- Expected deliverables:
-  - Smart contracts (ICRC-7 compliant)
-  - Marketplace UI with search/filter
-  - Metadata handling system
-  - Documentation & deployment guide
-- Technical requirements:
-  - Asset handling expertise
-  - Marketplace mechanics implementation
-  - Frontend development skills
-  - IPFS/asset storage experience
-
-### SocialFi & Community Building
-- Develop decentralized social platforms
-- Focus areas:
-  - Integration with OpenChat or Taggr
-  - Content monetization systems
-  - Reputation mechanisms
-  - Community governance
-- Expected deliverables:
-  - Social features implementation
-  - Content management system
-  - User interaction mechanisms
-  - Moderation tools
-- Technical requirements:
-  - Backend architecture design
-  - Frontend development
-  - Real-time data handling
-  - Content storage solutions
-
+| Track | Focus Areas | Expected Deliverables | Technical Requirements |
+|-------|-------------|----------------------|----------------------|
+| **DeFi Track** | • DEX platforms & AMM implementations<br>• Lending/borrowing protocols<br>• Yield optimization<br>• Staking mechanisms & liquid staking | • Smart contracts with comprehensive test coverage<br>• User interface with wallet integration<br>• Technical documentation & architecture diagrams | • Motoko/Rust proficiency<br>• Frontend development (React/Vue/Angular)<br>• Understanding of DeFi primitives<br>• Security best practices |
+| **AI & Blockchain Integration** | • Machine learning model deployment<br>• Data processing pipelines<br>• AI-driven decision systems<br>• Privacy-preserving computation | • AI model integration<br>• Smart contracts for model interaction<br>• User interface for AI features<br>• Performance optimization | • AI/ML expertise<br>• Canister development<br>• Model optimization skills<br>• Data handling experience |
+| **Chain Fusion** | • Ethereum, Bitcoin, Solana integration<br>• Asset bridging protocols<br>• Cross-chain messaging<br>• State verification | • Bridge protocols<br>• Security measures<br>• Monitoring systems<br>• Documentation | • Multi-chain development experience<br>• Security protocol design<br>• Cross-chain communication<br>• Testing frameworks |
+| **NFTs & Digital Assets** | • Advanced minting mechanisms<br>• Trading & auction systems<br>• Collection management & curation<br>• Metadata standards & storage solutions | • Smart contracts (ICRC-7 compliant)<br>• Marketplace UI with search/filter<br>• Metadata handling system<br>• Documentation & deployment guide | • Asset handling expertise<br>• Marketplace mechanics implementation<br>• Frontend development skills<br>• IPFS/asset storage experience |
+| **SocialFi & Community Building** | • Integration with OpenChat or Taggr<br>• Content monetization systems<br>• Reputation mechanisms<br>• Community governance | • Social features implementation<br>• Content management system<br>• User interaction mechanisms<br>• Moderation tools | • Backend architecture design<br>• Frontend development<br>• Real-time data handling<br>• Content storage solutions |
 
 
 # 💡Hackathon Ideas
-Explore potential project ideas:
 
-* AI on ICP
-* DePIN (Decentralized Physical Infrastructure)
-* DeFi with Chain Fusion (BTC, ETH, Solana)
-* ICP NFTs and Marketplaces
-* DAO Governance and NNS Interfaces
-* SocialFi Apps and Messaging
-* Zero-Knowledge Proofs
-* Education and Learn-to-Earn
-* Web3 Gaming on ICP
-* Real Estate on Chain
-* Public Goods and Impact Projects
-* Agentic dApps with On-Chain AI Agents
-* DeFi on ICP – Build a decentralized finance app (DEX, lending, staking).
+## 🚀 Hackathon Ideas
+
+> Explore innovative project ideas categorized by theme. Each idea includes a brief description, difficulty level, and key tools to use.
+
+---
+
+### 🤖 Decentralized AI (DeAI)
+
+- **AI Agent Launcher**
+  > Build a platform where users can deploy and run AI agents on-chain using ICP canisters.
+  - 🧠 *Difficulty:* Intermediate  
+  - 🛠 *Stack:* ICP, JavaScript, OpenAI API, canisters  
+  - 🔗 Related: [DeAI Resources](../awesome-education-hub/src/courses.md#decentralized-ai)
+
+- **AI DAO Assistant**
+  > An AI that summarizes DAO proposals and voting history to help members make better decisions.
+  - 🧠 *Difficulty:* Intermediate  
+  - 🛠 *Stack:* ICP, Chain Key Signatures, NNS API  
+
+---
+
+### 🔗 Chain Fusion & Interoperability
+
+- **Multichain Token Tracker**
+  > A dashboard to track balances across ICP, Bitcoin, Ethereum (via ckBTC, ckETH).
+  - 🧠 *Difficulty:* Beginner  
+  - 🛠 *Stack:* ICP, Rosetta API, Chain Fusion  
+
+- **NFT Cross-Chain Bridge**
+  > Transfer NFTs from Solana/Ethereum into the ICP ecosystem.
+  - 🧠 *Difficulty:* Advanced  
+  - 🛠 *Stack:* ICP, Solana Bridge, canisters, Motoko  
+
+---
+
+### 🛠 Tooling & DevX
+
+- **ICP Deployment CLI**
+  > A command-line tool to scaffold, deploy, and update dapps on ICP in one command.
+  - 🧠 *Difficulty:* Advanced  
+  - 🛠 *Stack:* Rust, TypeScript, dfx, SDKs  
+  - 🔗 Related: [Devtools](../awesome-education-hub/src/devtools.md)
+
+- **Template Wizard**
+  > Create a UI tool to generate project templates from popular boilerplates.
+  - 🧠 *Difficulty:* Beginner  
+  - 🛠 *Stack:* JavaScript, React, GitHub API  
+  - 🔗 Templates: [View Templates](../awesome-education-hub/src/templates.md)
+
+---
+
+### 🎓 Education & Onboarding
+
+- **Learn-to-Earn dApp**
+  > A gamified platform where users earn rewards by completing lessons on ICP tech.
+  - 🧠 *Difficulty:* Intermediate  
+  - 🛠 *Stack:* ICP, Motoko, Token integration  
+
+- **Motoko Quest**
+  > An interactive code playground with missions to learn Motoko, built natively on ICP.
+  - 🧠 *Difficulty:* Intermediate  
+  - 🛠 *Stack:* Motoko, React, Canisters  
+  - 🔗 Courses: [Motoko Courses](../awesome-education-hub/src/courses.md#motoko)
+
+---
+
+## ✅ How to Use These Ideas
+
+- Feel free to remix or combine ideas.
+- Use the [Awesome Education Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub) to find tools, templates, and libraries.
+- Submit your project to [World Computer Hacker League](#) for global recognition!
+
+
 
 
 # 🛠Cheatsheet
@@ -146,69 +123,61 @@ Explore potential project ideas:
 
 # 🏆Hackathon Judging Criteria
 
-* Technical Innovation (25%)
-  - Uniqueness of solution
-  - Creative use of ICP features
-  - Integration of emerging technologies
-  - Novel approach to solving problems
-
-* Technical Implementation (25%)
-  - Code quality and best practices
-  - System architecture
-  - Scalability considerations
-  - Security measures
-  - Smart contract implementation
-
-* User Experience (20%)
-  - Interface design
-  - Ease of use
-  - Responsiveness
-  - Documentation quality
-  - Demo clarity
-
-* Business & Impact Potential (20%)
-  - Market opportunity
-  - Problem-solution fit
-  - Social/economic impact
-  - Growth potential
-  - Community benefit
-
-* Project Completion (10%)
-  - Working prototype
-  - Feature completeness
-  - Meeting stated objectives
-  - Quality of presentation
-  - Team collaboration
+| Category | Weight | Criteria |
+|-----------|---------|-----------|
+| **Technical Innovation** | 25% | • Uniqueness of solution<br>• Creative use of ICP features<br>• Integration of emerging technologies<br>• Novel approach to solving problems |
+| **Technical Implementation** | 25% | • Code quality and best practices<br>• System architecture<br>• Scalability considerations<br>• Security measures<br>• Smart contract implementation |
+| **User Experience** | 20% | • Interface design<br>• Ease of use<br>• Responsiveness<br>• Documentation quality<br>• Demo clarity |
+| **Business & Impact Potential** | 20% | • Market opportunity<br>• Problem-solution fit<br>• Social/economic impact<br>• Growth potential<br>• Community benefit |
+| **Project Completion** | 10% | • Working prototype<br>• Feature completeness<br>• Meeting stated objectives<br>• Quality of presentation<br>• Team collaboration |
 
 # 📘Guides and Tutorials
 Step-by-step instructional content that teaches specific ICP concepts, tools, or implementations with practical examples.
+Here's the cleaned-up and properly formatted version of that section, with sublists nested clearly under the **Awesome ICP Education Hub** and links corrected:
 
-TODO: since Awesome ICP Education Hub is so rich on material, let's give it more "visibility"
-      Maybe a sub-list with links to each of the sections you had here? At least that way it's clear it's of Education Hub.
-- [Awesome-icp-education-hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub.git) - A curated list of resources for learning and building
-  - [Education Hub - Courses list](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md)
-- [DFINITY Examples Repo](https://github.com/dfinity/examples) - Code samples from DFINITY.
+```md
+- [DFINITY Examples Repo](https://github.com/dfinity/examples) – Code samples from DFINITY.
+
+- [Awesome ICP Education Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub) – A curated list of resources for learning and building on ICP:
+  - [🎓 Courses](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md) – Structured learning tracks on Motoko, Rust, frontend, DeAI, and more.
+  - [🛠 Devtools](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md) – Developer tools, IDEs, debugging utilities, and SDKs.
+  - [📺 Libraries](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md) – Useful libraries for frontend, backend, agents, AI, etc.
+  - [📖 Templates](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/templates.md) – Ready-made boilerplates to kickstart your dapp/project.
+```
+
+
+
 
 # 👨‍💻 Workshops
 
-TODO: Let's refactor this into a separate section, and let's extend it significantly and divide by topic (Chain Fusion, AI, etc. Let's ) and label it by stack (Rust, Motoko, React, ...)
-      Could you add the best ones of Dfinity Youtube (that could be used / re delivered on a Hackathon)? Like Developer Journey or some that explain the IC and specific tool? (focus on Hackathons, don't get a huge list, max 10 videos)      
-Here are  Livestream sessions led by Devrels providing insights, demonstrations, and discussions on ICP-related topics.
-Hands-on workshops that help developers practice implementing ICP features in real-time.
+## 🧪 Workshops by Topic
 
-TODO: Encode Club has some that are very interesting, given by Dfinity DevRels, like Moritz, Jenifer and Dieter. Let's highlight the links to each of those sessions and not to Encode Club as a whole. Because the "Demo" sessions are not worth it.
+### AI & DeAI (Motoko + JS)
+- [Intro to AI on ICP by DFINITY](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
+- [AI Agent Hackathon Guide](https://www.notion.so/dfinityorg/AI-Agent-Hackathon-2025-1f9ef9d9b80c80629d39ccd9e8eab07d)
+
+### Chain Fusion (Rust + Cross-chain)
+- [Encode Club - Chain Fusion Tutorial by Dieter](https://www.youtube.com/watch?v=Z6Acz3Vt9Ec)
+- [X Space - Chain Fusion Demo & Panel](https://x.com/ICPHUBS/status/1919723953045832161)
+
+### Dev Journey & Intro to ICP
+- [Developer Journey Series - DFINITY](https://www.youtube.com/playlist?list=PLuhTCh6Nqv1wUnc7tRjeqdB0hdNyIbXTx)
+- [Intro to Smart Contracts on ICP](https://www.youtube.com/watch?v=vAfkHn2HaKE)
+
  - [Encode club Chainfusion Tutorials](https://www.youtube.com/@encodeclub/search?query=icp)
  - [AI](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
  - [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
  
 # 🎨 Design  & UI KIT
 
-TODO: Below Figma, consider adding a tool or two for creating UI mockups (that it's easier than Figma)
-* [Figma](https://figma.com) - Industry-standard collaborative design tool for creating user interfaces, prototypes, and design systems
-TODO: Please consider not recommending Radix, it extensively recommends use of styles.css, which makes it very hard for maintainenance.
-      Consider mentioning Tailwind & Svelte, since those two are the most commonly used frameworks, and maybe one or two UI kits that are compatible / depend on those frameworks
-      
-* [Radix UI](https://www.radix-ui.com/) - A collection of open source UI components and design tools for building high-quality, accessible design systems and web applications
+## 🎨 Design & UI KIT
+
+- [Figma](https://figma.com) – Create UI mockups and components
+- [Penpot](https://penpot.app) – Open-source alternative to Figma
+- [Tailwind UI](https://tailwindui.com) – Beautifully crafted UI components for Tailwind CSS
+- [Flowbite](https://flowbite.com) – Tailwind CSS components with React/Vue/Svelte integrations
+- [Svelte UI Kit](https://svelteui.org/) – UI components for apps built with Svelte
+
 
 # 🤝 Contributing
 
