@@ -51,7 +51,7 @@ A comprehensive resource hub for hackathon participants and developers building 
   > Build a platform where users can deploy and run AI agents on-chain using ICP canisters.
   - 🧠 *Difficulty:* Intermediate  
   - 🛠 *Stack:* ICP, JavaScript, OpenAI API, canisters  
-  - 🔗 Related: [DeAI Resources](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a)
+  - 🔗 Related: [DeAI Resources](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a,https://github.com/pt-icp-hub/IC-Vibe-Coding-Template-Rust)
 
 - **AI DAO Assistant**
   > An AI that summarizes DAO proposals and voting history to help members make better decisions.
