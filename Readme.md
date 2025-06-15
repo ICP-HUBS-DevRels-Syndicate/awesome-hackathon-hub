@@ -51,12 +51,12 @@ A comprehensive resource hub for hackathon participants and developers building 
   > Build a platform where users can deploy and run AI agents on-chain using ICP canisters.
   - 🧠 *Difficulty:* Intermediate  
   - 🛠 *Stack:* ICP, JavaScript, OpenAI API, canisters  
-  - 🔗 Related: [DeAI Resources](../awesome-education-hub/src/courses.md#decentralized-ai)
+  - 🔗 Related: [DeAI Resources](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a)
 
 - **AI DAO Assistant**
   > An AI that summarizes DAO proposals and voting history to help members make better decisions.
   - 🧠 *Difficulty:* Intermediate  
-  - 🛠 *Stack:* ICP, Chain Key Signatures, NNS API  
+  - 🛠 *Stack:* ICP, Chain Key Signatures, NNS ,SNS  
 
 ---
 
@@ -80,13 +80,13 @@ A comprehensive resource hub for hackathon participants and developers building 
   > A command-line tool to scaffold, deploy, and update dapps on ICP in one command.
   - 🧠 *Difficulty:* Advanced  
   - 🛠 *Stack:* Rust, TypeScript, dfx, SDKs  
-  - 🔗 Related: [Devtools](../awesome-education-hub/src/devtools.md)
+
 
 - **Template Wizard**
   > Create a UI tool to generate project templates from popular boilerplates.
   - 🧠 *Difficulty:* Beginner  
   - 🛠 *Stack:* JavaScript, React, GitHub API  
-  - 🔗 Templates: [View Templates](../awesome-education-hub/src/templates.md)
+ 
 
 ---
 
@@ -101,18 +101,7 @@ A comprehensive resource hub for hackathon participants and developers building 
   > An interactive code playground with missions to learn Motoko, built natively on ICP.
   - 🧠 *Difficulty:* Intermediate  
   - 🛠 *Stack:* Motoko, React, Canisters  
-  - 🔗 Courses: [Motoko Courses](../awesome-education-hub/src/courses.md#motoko)
-
----
-
-## ✅ How to Use These Ideas
-
-- Feel free to remix or combine ideas.
-- Use the [Awesome Education Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub) to find tools, templates, and libraries.
-- Submit your project to [World Computer Hacker League](#) for global recognition!
-
-
-
+  
 
 # 🛠Cheatsheet
 - [ICP Hackathon Cheat Sheet - Cheat Sheet ](https://dfinityorg.notion.site/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c)
@@ -133,10 +122,9 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 # 📘Guides and Tutorials
 Step-by-step instructional content that teaches specific ICP concepts, tools, or implementations with practical examples.
-Here's the cleaned-up and properly formatted version of that section, with sublists nested clearly under the **Awesome ICP Education Hub** and links corrected:
 
 ```md
-- [DFINITY Examples Repo](https://github.com/dfinity/examples) – Code samples from DFINITY.
+
 
 - [Awesome ICP Education Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub) – A curated list of resources for learning and building on ICP:
   - [🎓 Courses](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md) – Structured learning tracks on Motoko, Rust, frontend, DeAI, and more.
@@ -152,25 +140,48 @@ Here's the cleaned-up and properly formatted version of that section, with subli
 
 ## 🧪 Workshops by Topic
 
-### AI & DeAI (Motoko + JS)
-- [Intro to AI on ICP by DFINITY](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
-- [AI Agent Hackathon Guide](https://www.notion.so/dfinityorg/AI-Agent-Hackathon-2025-1f9ef9d9b80c80629d39ccd9e8eab07d)
-
-### Chain Fusion (Rust + Cross-chain)
-- [Encode Club - Chain Fusion Tutorial by Dieter](https://www.youtube.com/watch?v=Z6Acz3Vt9Ec)
-- [X Space - Chain Fusion Demo & Panel](https://x.com/ICPHUBS/status/1919723953045832161)
-
 ### Dev Journey & Intro to ICP
 - [Developer Journey Series - DFINITY](https://www.youtube.com/playlist?list=PLuhTCh6Nqv1wUnc7tRjeqdB0hdNyIbXTx)
-- [Intro to Smart Contracts on ICP](https://www.youtube.com/watch?v=vAfkHn2HaKE)
 
- - [Encode club Chainfusion Tutorials](https://www.youtube.com/@encodeclub/search?query=icp)
- - [AI](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
- - [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
+
+
+### Chain Fusion (Rust + Cross-chain)
+
+- [X Space - Chain Fusion Demo by Steve Kimoi](https://x.com/ICPHUBS/status/1919723953045832161)
+
+- [Encode Club - Chain Fusion Tutorial by Dieter](https://www.youtube.com/watch?v=Z6Acz3Vt9Ec)
+
+
+
+- [Encode club Introduction to Chain Fusion](https://youtu.be/GiMlCJmOl8o?si=aetE9v9UrKQRvXn7)
+
+
+- [Education Hub, Dev Experience, Roadmap updates, Query stats, DecideAI](https://youtu.be/0OVViUa-A-U?si=fbdRBFqWsPmnncbO)
+
+
+
+- [Encode club Bitcoin Chainfusion Tutorial](https://youtu.be/dCTlWP0vFiY?si=bulK9kSfthgXXQXS)
+
+
+- [Encode club Introduction to Chain Fusion](https://youtu.be/GiMlCJmOl8o?si=aetE9v9UrKQRvXn7)
+
+ 
+
+- [Encode club Bitcoin Chainfusion Tutorial](https://youtu.be/FvMmB38UjVk?si=NpeWjJRmaVojIA5m)
+
+
+
+- [Encode club Bitcoin Http outcalls Tutorial]( https://youtu.be/FvMmB38UjVk?si=bDqtpkXJqJV8sD3a)
+
+
+
+### AI & DeAI
+
+- [Intro to AI on ICP by ICPHUBS](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
+- [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
  
 # 🎨 Design  & UI KIT
 
-## 🎨 Design & UI KIT
 
 - [Figma](https://figma.com) – Create UI mockups and components
 - [Penpot](https://penpot.app) – Open-source alternative to Figma
