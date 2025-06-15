@@ -177,7 +177,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 
 ### AI & DeAI
 
-- [Intro to AI on ICP by ICPHUBS](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
+- [Intro to AI on ICP by Tiago](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
 - [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
  
 # 🎨 Design  & UI KIT
