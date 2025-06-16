@@ -87,16 +87,16 @@ A comprehensive resource hub for hackathon participants and developers building 
 # 📘Guides and Tutorials
 Step-by-step instructional content that teaches specific ICP concepts, tools, or implementations with practical examples.
 
-```md
-
-
 - [Awesome ICP Education Hub](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub) – A curated list of resources for learning and building on ICP:
-  - [🎓 Courses](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md) – Structured learning tracks on Motoko, Rust, frontend, DeAI, and more.
-  - [🛠 Devtools](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md) – Developer tools, IDEs, debugging utilities, and SDKs.
-  - [📺 Libraries](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md) – Useful libraries for frontend, backend, agents, AI, etc.
-  - [📖 Templates](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/templates.md) – Ready-made boilerplates to kickstart your dapp/project.
 
-```
+  - 🎓 [Courses](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/courses.md) – Structured learning tracks on Motoko, Rust, frontend, DeAI, and more.
+
+  - 🛠 [Devtools](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md) – Developer tools, IDEs, debugging utilities, and SDKs.
+
+  - 📺 [Libraries](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md) – Useful libraries for frontend, backend, agents, AI, etc.
+
+  - 📖 [Templates](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/templates.md) – Ready-made boilerplates to kickstart your dapp/project.
+
 
 
 
