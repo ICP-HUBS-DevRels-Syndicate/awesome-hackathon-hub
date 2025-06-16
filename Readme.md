@@ -95,6 +95,7 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
   - [🛠 Devtools](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/devtools.md) – Developer tools, IDEs, debugging utilities, and SDKs.
   - [📺 Libraries](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/libraries.md) – Useful libraries for frontend, backend, agents, AI, etc.
   - [📖 Templates](https://github.com/ICP-HUBS-DevRels-Syndicate/awesome-education-hub/blob/main/src/templates.md) – Ready-made boilerplates to kickstart your dapp/project.
+
 ```
 
 
