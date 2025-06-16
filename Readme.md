@@ -53,7 +53,7 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 | 🧠 Category | 💡 Idea | 📝 Description | 🎯 Difficulty | 🛠 Stack | 🔗 Resources |
 |------------|---------|----------------|---------------|----------|---------------|
-| 🤖 DeAI | AI Agent Launcher | Platform to deploy and run AI agents on-chain using ICP canisters | Intermediate | ICP, JavaScript, OpenAI API, Canisters | [DeAI Playbook](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a), [Rust Template](https://github.com/pt-icp-hub/IC-Vibe-Coding-Template-Rust) |
+| 🤖 DeAI | AI Agent Launcher | Platform to deploy and run AI agents on-chain using ICP canisters | Intermediate | ICP, JavaScript, OpenAI API, Canisters | [DeAI Playbook](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a), [Vibe coding Rust Template](https://github.com/pt-icp-hub/IC-Vibe-Coding-Template-Rust) |
 | 🤖 DeAI | AI DAO Assistant | AI summarizer for DAO proposals and voting history | Intermediate | ICP, Chain Key Signatures, NNS, SNS | – |
 | 🔗 Chain Fusion | Multichain Token Tracker | Dashboard to track balances across ICP, Bitcoin, Ethereum | Beginner | ICP, Rosetta API, Chain Fusion | – |
 | 🔗 Chain Fusion | NFT Cross-Chain Bridge | Bridge NFTs from Ethereum/Solana into ICP | Advanced | ICP, Solana Bridge, Canisters, Motoko | – |
