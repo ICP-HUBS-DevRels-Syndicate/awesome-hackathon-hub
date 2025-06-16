@@ -28,13 +28,19 @@ A comprehensive resource hub for hackathon participants and developers building 
 - [ICP Hacker House Bali Challenges](https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali)
 - [Devcon Bangkok Bounties](https://github.com/ICP-Hacker-House/Devcon_BKK?tab=readme-ov-file#bounties)
 
-| Track | Focus Areas | Expected Deliverables | Technical Requirements |
-|-------|-------------|----------------------|----------------------|
-| **DeFi Track** | • DEX platforms & AMM implementations<br>• Lending/borrowing protocols<br>• Yield optimization<br>• Staking mechanisms & liquid staking | • Smart contracts with comprehensive test coverage<br>• User interface with wallet integration<br>• Technical documentation & architecture diagrams | • Motoko/Rust proficiency<br>• Frontend development (React/Vue/Angular)<br>• Understanding of DeFi primitives<br>• Security best practices |
-| **AI & Blockchain Integration** | • Machine learning model deployment<br>• Data processing pipelines<br>• AI-driven decision systems<br>• Privacy-preserving computation | • AI model integration<br>• Smart contracts for model interaction<br>• User interface for AI features<br>• Performance optimization | • AI/ML expertise<br>• Canister development<br>• Model optimization skills<br>• Data handling experience |
-| **Chain Fusion** | • Ethereum, Bitcoin, Solana integration<br>• Asset bridging protocols<br>• Cross-chain messaging<br>• State verification | • Bridge protocols<br>• Security measures<br>• Monitoring systems<br>• Documentation | • Multi-chain development experience<br>• Security protocol design<br>• Cross-chain communication<br>• Testing frameworks |
-| **NFTs & Digital Assets** | • Advanced minting mechanisms<br>• Trading & auction systems<br>• Collection management & curation<br>• Metadata standards & storage solutions | • Smart contracts (ICRC-7 compliant)<br>• Marketplace UI with search/filter<br>• Metadata handling system<br>• Documentation & deployment guide | • Asset handling expertise<br>• Marketplace mechanics implementation<br>• Frontend development skills<br>• IPFS/asset storage experience |
-| **SocialFi & Community Building** | • Integration with OpenChat or Taggr<br>• Content monetization systems<br>• Reputation mechanisms<br>• Community governance | • Social features implementation<br>• Content management system<br>• User interaction mechanisms<br>• Moderation tools | • Backend architecture design<br>• Frontend development<br>• Real-time data handling<br>• Content storage solutions |
+
+| 🧩 Track | 🎯 Focus Areas | 📦 Expected Deliverables | 🧠 Technical Requirements |
+|--------|----------------|--------------------------|---------------------------|
+| **DeFi Track** | • DEX platforms & AMMs<br>• Lending/borrowing protocols<br>• Yield farming & liquid staking | • Smart contracts with test coverage<br>• UI with wallet support<br>• Technical documentation | • Motoko/Rust<br>• DeFi primitives<br>• Security best practices |
+| **AI – Decentralized AI Apps & Agents** | • On-chain AI agents<br>• AI DAOs<br>• Decision-making systems<br>• AI + SNS integrations | • Deployed AI canisters<br>• Interactive frontend<br>• Dataset/model integration<br>• Docs & architecture | • AI/ML experience<br>• ICP canisters<br>• OpenAI or custom APIs<br>• Performance tuning |
+| **Bitcoin DeFi** | • BTC yield protocols<br>• ckBTC-based lending/borrowing<br>• BTC payment integrations | • ckBTC smart contract use<br>• Bitcoin/ICP fusion<br>• UI for user actions | • Chain Key Signatures<br>• BTC + ICP dev skills<br>• ICP ledger APIs |
+| **Fully On-Chain** | • On-chain DAOs<br>• On-chain Social dApps<br>• No Web2 reliance | • 100% canister-hosted app<br>• Full code + data on-chain<br>• Docs explaining on-chain architecture | • Motoko/Rust<br>• On-chain data storage<br>• Smart contract-first thinking |
+| **RWA – Real World Assets** | • Real estate tokenization<br>• Commodities on-chain<br>• Proof of ownership NFTs | • Smart contracts for RWA<br>• Tokenized asset flows<br>• Legal disclaimers/docs | • RWA concepts<br>• ICP ledger/token standards<br>• Regulatory awareness |
+| **Chain Fusion** | • ETH/BTC/SOL bridges<br>• Cross-chain DAOs<br>• Interoperable NFTs | • Bridge protocols<br>• Security models<br>• Docs and analytics dashboards | • Cross-chain dev<br>• ckBTC/ckETH<br>• Rosetta/HTTP outcalls |
+| **NFTs & Digital Assets** | • Advanced NFT minting<br>• Auctions/marketplaces<br>• Dynamic metadata | • ICRC-7/ICRC-3 contracts<br>• Marketplace UI<br>• Metadata handling logic | • NFT standards<br>• Frontend filters<br>• IPFS or on-chain storage |
+| **SocialFi & Web3 Communities** | • dSocial platforms<br>• Creator monetization<br>• Web3 reputation scores | • OpenChat/Taggr integration<br>• Content tooling<br>• Moderation controls | • Real-time backend<br>• Frontend UI/UX<br>• Data sync/storage |
+| **Open Track** | • Any wild idea<br>• Experimental protocols<br>• Novel dApps not covered above | • Working demo on mainnet<br>• Clear vision + utility<br>• Open-ended submission | • Creativity<br>• Understanding of ICP dev<br>• Community feedback loop |
+
 
 
 # 💡Hackathon Ideas
@@ -96,56 +102,60 @@ Step-by-step instructional content that teaches specific ICP concepts, tools, or
 
 # 👨‍💻 Workshops
 
-## 🧪 Workshops by Topic
+# 🧪 Workshops by Topic
 
-### Dev Journey & Intro to ICP
-- [Developer Journey Series - DFINITY](https://www.youtube.com/playlist?list=PLuhTCh6Nqv1wUnc7tRjeqdB0hdNyIbXTx)
+A curated list of workshop sessions to help developers dive into building on the Internet Computer (ICP), organized by theme and stack.
 
+---
 
+### 🌍 Dev Journey & Intro to ICP
 
-### Chain Fusion (Rust + Cross-chain)
+| 🎥 Title | 📌 Description |
+|---------|----------------|
+| [Developer Journey Series – DFINITY](https://www.youtube.com/playlist?list=PLuhTCh6Nqv1wUnc7tRjeqdB0hdNyIbXTx) | A foundational video series that introduces building on ICP, including canisters, dfx, and ecosystem tools. |
 
-- [X Space - Chain Fusion Demo by Steve Kimoi](https://x.com/ICPHUBS/status/1919723953045832161)
+---
 
-- [Encode Club - Chain Fusion Tutorial by Dieter](https://www.youtube.com/watch?v=Z6Acz3Vt9Ec)
+### 🔗 Chain Fusion (Rust + Cross-Chain)
 
+| 🎥 Title | 📌 Description |
+|---------|----------------|
+| [Chain Fusion Demo – Steve Kimoi (X Space)](https://x.com/ICPHUBS/status/1919723953045832161) | A live demonstration of cross-chain interoperability using Chain Fusion. |
+| [Encode Club – Chain Fusion Tutorial by Dieter](https://www.youtube.com/watch?v=Z6Acz3Vt9Ec) | A step-by-step walkthrough on setting up and using Chain Fusion. |
+| [Encode Club – Intro to Chain Fusion](https://youtu.be/GiMlCJmOl8o?si=aetE9v9UrKQRvXn7) | Conceptual breakdown of Chain Fusion and its multichain architecture. |
+| [Education Hub – Dev Experience, Roadmap & Query Stats](https://youtu.be/0OVViUa-A-U?si=fbdRBFqWsPmnncbO) | Covers developer tooling, ecosystem roadmap, DecideAI, and more. |
+| [Encode Club – Bitcoin Chain Fusion Tutorial (Part 1)](https://youtu.be/dCTlWP0vFiY?si=bulK9kSfthgXXQXS) | Teaches how to connect ICP with Bitcoin using ckBTC. |
+| [Encode Club – Bitcoin Chain Fusion Tutorial (Part 2)](https://youtu.be/FvMmB38UjVk?si=NpeWjJRmaVojIA5m) | Deeper dive into bridging and token outcalls with Bitcoin. |
+| [Encode Club – Bitcoin HTTP Outcalls Tutorial](https://youtu.be/FvMmB38UjVk?si=bDqtpkXJqJV8sD3a) | How to perform HTTP requests to Bitcoin nodes from ICP canisters. |
 
+---
 
-- [Encode club Introduction to Chain Fusion](https://youtu.be/GiMlCJmOl8o?si=aetE9v9UrKQRvXn7)
+### 🧠 AI & DeAI
 
+| 🎥 Title | 📌 Description |
+|---------|----------------|
+| [Intro to AI on ICP – Tiago (X Space)](https://x.com/i/broadcasts/1djGXVYEyYLxZ) | Learn how AI models and agents can run fully on-chain using ICP. |
+| [Chain Fusion Demo – Steve Kimoi (X Space)](https://x.com/ICPHUBS/status/1919723953045832161) | Highlights how Chain Fusion can power DeAI through multichain data access. |
 
-- [Education Hub, Dev Experience, Roadmap updates, Query stats, DecideAI](https://youtu.be/0OVViUa-A-U?si=fbdRBFqWsPmnncbO)
-
-
-
-- [Encode club Bitcoin Chainfusion Tutorial](https://youtu.be/dCTlWP0vFiY?si=bulK9kSfthgXXQXS)
-
-
-- [Encode club Introduction to Chain Fusion](https://youtu.be/GiMlCJmOl8o?si=aetE9v9UrKQRvXn7)
+---
 
  
+# 🎨 Design & UI KIT
 
-- [Encode club Bitcoin Chainfusion Tutorial](https://youtu.be/FvMmB38UjVk?si=NpeWjJRmaVojIA5m)
+Craft stunning dApps on ICP with these design tools and component libraries. Whether you're working with Tailwind, React, Svelte, or just wireframing—this toolkit has you covered.
 
+| 🛠️ Tool | 💡 Description |
+|--------|----------------|
+| [Figma](https://figma.com) | Industry-standard design tool for wireframes, UI mockups, and collaborative prototyping. |
+| [Penpot](https://penpot.app) | Open-source alternative to Figma with team-friendly features and vector editing. |
+| [Tailwind UI](https://tailwindui.com) | Premium, ready-to-use components built by the creators of Tailwind CSS. |
+| [Flowbite](https://flowbite.com) | Tailwind CSS UI components with full support for React, Vue, and Svelte. |
+| [Svelte UI Kit](https://svelteui.org/) | Clean, responsive UI component library tailored for apps using the Svelte framework. |
 
+💡 *Pro Tip:* Pair these kits with your ICP frontend stack (e.g. React + canisters or SvelteKit + Azle) to accelerate your dApp development.
 
-- [Encode club Bitcoin Http outcalls Tutorial]( https://youtu.be/FvMmB38UjVk?si=bDqtpkXJqJV8sD3a)
+---
 
-
-
-### AI & DeAI
-
-- [Intro to AI on ICP by Tiago](https://x.com/i/broadcasts/1djGXVYEyYLxZ)
-- [Chainfusion](https://x.com/ICPHUBS/status/1919723953045832161)
- 
-# 🎨 Design  & UI KIT
-
-
-- [Figma](https://figma.com) – Create UI mockups and components
-- [Penpot](https://penpot.app) – Open-source alternative to Figma
-- [Tailwind UI](https://tailwindui.com) – Beautifully crafted UI components for Tailwind CSS
-- [Flowbite](https://flowbite.com) – Tailwind CSS components with React/Vue/Svelte integrations
-- [Svelte UI Kit](https://svelteui.org/) – UI components for apps built with Svelte
 
 
 # 🤝 Contributing
