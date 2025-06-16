@@ -45,62 +45,20 @@ A comprehensive resource hub for hackathon participants and developers building 
 
 ---
 
-### 🤖 Decentralized AI (DeAI)
+| 🧠 Category | 💡 Idea | 📝 Description | 🎯 Difficulty | 🛠 Stack | 🔗 Resources |
+|------------|---------|----------------|---------------|----------|---------------|
+| 🤖 DeAI | AI Agent Launcher | Platform to deploy and run AI agents on-chain using ICP canisters | Intermediate | ICP, JavaScript, OpenAI API, Canisters | [DeAI Playbook](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a), [Rust Template](https://github.com/pt-icp-hub/IC-Vibe-Coding-Template-Rust) |
+| 🤖 DeAI | AI DAO Assistant | AI summarizer for DAO proposals and voting history | Intermediate | ICP, Chain Key Signatures, NNS, SNS | – |
+| 🔗 Chain Fusion | Multichain Token Tracker | Dashboard to track balances across ICP, Bitcoin, Ethereum | Beginner | ICP, Rosetta API, Chain Fusion | – |
+| 🔗 Chain Fusion | NFT Cross-Chain Bridge | Bridge NFTs from Ethereum/Solana into ICP | Advanced | ICP, Solana Bridge, Canisters, Motoko | – |
+| 🛠 DevX | ICP Deployment CLI | CLI tool for scaffolding, deploying, updating ICP dapps | Advanced | Rust, TypeScript, dfx, SDKs | – |
+| 🛠 DevX | Template Wizard | UI generator for project templates from boilerplates | Beginner | JavaScript, React, GitHub API | – |
+| 🎓 Education | Learn-to-Earn dApp | Gamified app where users earn tokens for learning ICP | Intermediate | ICP, Motoko, Token integration | – |
+| 🎓 Education | Motoko Quest | Interactive playground to learn Motoko with missions | Intermediate | Motoko, React, Canisters | – |
+| ⚡ Fully On-Chain | On-Chain Voting App | A decentralized voting platform running entirely in canisters (no web2 backend) | Intermediate | Motoko, ICP, SNS | – |
+| ⚡ Fully On-Chain | Blog on the Blockchain | A fully on-chain blog engine where content and edits are stored in canisters | Intermediate | Motoko/Rust, React, ICP Storage | – |
+| ⚡ Fully On-Chain | Canister-to-Canister Messaging Explorer | Tool for visualizing and testing inter-canister message flows in real-time | Advanced | ICP, Motoko, Inspector, DFX | – |
 
-- **AI Agent Launcher**
-  > Build a platform where users can deploy and run AI agents on-chain using ICP canisters.
-  - 🧠 *Difficulty:* Intermediate  
-  - 🛠 *Stack:* ICP, JavaScript, OpenAI API, canisters  
-  - 🔗 Related: [DeAI Resources](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a,https://github.com/pt-icp-hub/IC-Vibe-Coding-Template-Rust)
-
-- **AI DAO Assistant**
-  > An AI that summarizes DAO proposals and voting history to help members make better decisions.
-  - 🧠 *Difficulty:* Intermediate  
-  - 🛠 *Stack:* ICP, Chain Key Signatures, NNS ,SNS  
-
----
-
-### 🔗 Chain Fusion & Interoperability
-
-- **Multichain Token Tracker**
-  > A dashboard to track balances across ICP, Bitcoin, Ethereum (via ckBTC, ckETH).
-  - 🧠 *Difficulty:* Beginner  
-  - 🛠 *Stack:* ICP, Rosetta API, Chain Fusion  
-
-- **NFT Cross-Chain Bridge**
-  > Transfer NFTs from Solana/Ethereum into the ICP ecosystem.
-  - 🧠 *Difficulty:* Advanced  
-  - 🛠 *Stack:* ICP, Solana Bridge, canisters, Motoko  
-
----
-
-### 🛠 Tooling & DevX
-
-- **ICP Deployment CLI**
-  > A command-line tool to scaffold, deploy, and update dapps on ICP in one command.
-  - 🧠 *Difficulty:* Advanced  
-  - 🛠 *Stack:* Rust, TypeScript, dfx, SDKs  
-
-
-- **Template Wizard**
-  > Create a UI tool to generate project templates from popular boilerplates.
-  - 🧠 *Difficulty:* Beginner  
-  - 🛠 *Stack:* JavaScript, React, GitHub API  
- 
-
----
-
-### 🎓 Education & Onboarding
-
-- **Learn-to-Earn dApp**
-  > A gamified platform where users earn rewards by completing lessons on ICP tech.
-  - 🧠 *Difficulty:* Intermediate  
-  - 🛠 *Stack:* ICP, Motoko, Token integration  
-
-- **Motoko Quest**
-  > An interactive code playground with missions to learn Motoko, built natively on ICP.
-  - 🧠 *Difficulty:* Intermediate  
-  - 🛠 *Stack:* Motoko, React, Canisters  
   
 
 # 🛠Cheatsheet
